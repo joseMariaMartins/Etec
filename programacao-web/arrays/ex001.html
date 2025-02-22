@@ -1,0 +1,20 @@
+<meta charset="UTF-8">
+<script>
+    alert("Digite um número de 1 a 4 para verificar (1 para não perecível, 2 para perecível, 3 para vestuário e 4 para limpeza)");
+
+    var classificacoes = [
+        "Código inválido. Digite um número entre 1 e 4.", 
+        "um Alimento não perecível", 
+        "um Alimento perecível", 
+        "um Vestuário", 
+        "de Limpeza" 
+    ];
+    
+    var num = parseInt(prompt("Digite um número:"));
+
+    if (num >= 1 && num <= 4) {
+        alert("O item é " + classificacoes[num]);
+    } else {
+        alert(classificacoes[0]);
+    }
+</script>

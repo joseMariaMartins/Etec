@@ -1,0 +1,77 @@
+programa
+{
+	inclua biblioteca Util --> U
+	inclua biblioteca Texto --> T
+	funcao inicio()
+	 {
+
+		cadeia dia[]={"", "Domingo", "Segunda-Feira", "Terça-Feira", "Quarta-Feira", "Quinta-Feira", "Sexta-Feira", "Sábado"},
+	            mes[]={"", "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"},
+		       vresp,
+		       vresp_2
+		inteiro n = 0
+
+		faca
+		{
+				
+			
+			limpa()
+	
+			escreva("Você gostaria de verificar um mês ou um dia? ")
+			leia(vresp)
+	
+			limpa()
+	
+			se(vresp == "dia")
+			{
+				escreva("Qual dia o sr(a) deseja verificar? (Em números) ")
+				leia(n)
+	
+				se(n < 1 ou n > 7)
+				{
+					escreva("***ERRO DIGITE NUMEROS VALIDOS, cabaço***")
+				}
+				senao
+				{
+					escreva("\nO número " + n + "º corresponde a " + dia[n])
+					U.aguarde(2000)
+				}
+			}
+			senao se (vresp == "mes")
+			{    
+				escreva("Qual mês o sr(a) deseja verificar? (Em números) ")
+				leia(n)
+				
+				se(n < 1 ou n > 12) 
+				{
+				escreva("***ERRO DIGITE NUMEROS VALIDOS, cabaço***")
+				}
+				senao 
+				{
+					escreva("\nO número " + n + "º corresponde a " + mes[n])
+					U.aguarde(2000)
+				}
+			}
+			senao
+			{
+				escreva("*** Nada a vê esse papo ai ****")
+				U.aguarde(2000)	
+			}
+
+			escreva("\n\nGostaria de fazer novamente? ")
+			leia(vresp_2)
+			
+		}enquanto(T.caixa_baixa(vresp_2) == "sim" ou T.caixa_baixa(vresp_2) == "gostaria")
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 1254; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */

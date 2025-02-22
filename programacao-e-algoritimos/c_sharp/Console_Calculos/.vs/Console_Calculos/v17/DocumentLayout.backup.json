@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azs90\\Documents\\etec\\programacao-e-algoritimos\\c_sharp\\Console_Calculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3457D193-B6AD-4310-88EC-7A6FEDA8E218}|Projeto_Console_Calculos\\Projeto_Console_Calculos.csproj|c:\\users\\azs90\\documents\\etec\\programacao-e-algoritimos\\c_sharp\\console_calculos\\projeto_console_calculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3457D193-B6AD-4310-88EC-7A6FEDA8E218}|Projeto_Console_Calculos\\Projeto_Console_Calculos.csproj|solutionrelative:projeto_console_calculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azs90\\Documents\\etec\\programacao-e-algoritimos\\c_sharp\\Console_Calculos\\Projeto_Console_Calculos\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto_Console_Calculos\\Program.cs",
+              "ToolTip": "C:\\Users\\azs90\\Documents\\etec\\programacao-e-algoritimos\\c_sharp\\Console_Calculos\\Projeto_Console_Calculos\\Program.cs",
+              "RelativeToolTip": "Projeto_Console_Calculos\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAEwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:32:42.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<meta charset="UTF-8">
+<script>
+    let i,num_pessoas,nome =[] 
+
+    num_pessoas = Number(prompt("Quantas pessoas você deseja colocar o nome?"))
+
+    for(i = 0; i < num_pessoas; i++){
+        nome[i] = prompt("Qual o nome da " + (i + 1)  + "º pessoa? ")
+    }
+    for(i = 0; i < num_pessoas; i++){
+        alert(`O nome da ${i + 1}º pessoa é ${nome[i]}`)
+    }
+</script>

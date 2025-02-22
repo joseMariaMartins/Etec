@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azs90\\Documents\\Em-prego\\etec\\programacao-e-algoritimos\\c_sharp\\todos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614B0056-A884-4CCC-85A3-F594E69C6E49}|menu_7opc\\menu_7opc.csproj|c:\\users\\azs90\\documents\\em-prego\\etec\\programacao-e-algoritimos\\c_sharp\\todos\\menu_7opc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B0056-A884-4CCC-85A3-F594E69C6E49}|menu_7opc\\menu_7opc.csproj|solutionrelative:menu_7opc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azs90\\Documents\\Em-prego\\etec\\programacao-e-algoritimos\\c_sharp\\todos\\menu_7opc\\Program.cs",
+              "RelativeDocumentMoniker": "menu_7opc\\Program.cs",
+              "ToolTip": "C:\\Users\\azs90\\Documents\\Em-prego\\etec\\programacao-e-algoritimos\\c_sharp\\todos\\menu_7opc\\Program.cs",
+              "RelativeToolTip": "menu_7opc\\Program.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAAAFYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T02:38:35.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

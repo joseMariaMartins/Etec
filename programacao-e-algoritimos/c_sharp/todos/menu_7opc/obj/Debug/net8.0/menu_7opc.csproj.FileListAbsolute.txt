@@ -1,0 +1,15 @@
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.AssemblyInfoInputs.cache
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.AssemblyInfo.cs
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.csproj.CoreCompileInputs.cache
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.sourcelink.json
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\bin\Debug\net8.0\menu_7opc.exe
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\bin\Debug\net8.0\menu_7opc.deps.json
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\bin\Debug\net8.0\menu_7opc.runtimeconfig.json
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\bin\Debug\net8.0\menu_7opc.dll
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\bin\Debug\net8.0\menu_7opc.pdb
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.dll
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\refint\menu_7opc.dll
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.pdb
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\menu_7opc.genruntimeconfig.cache
+C:\Users\azs90\Documents\Em-prego\etec\programacao-e-algoritimos\c_sharp\todos\menu_7opc\obj\Debug\net8.0\ref\menu_7opc.dll
