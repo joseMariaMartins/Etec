@@ -1,0 +1,15 @@
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.AssemblyInfoInputs.cache
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.AssemblyInfo.cs
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.csproj.CoreCompileInputs.cache
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.sourcelink.json
+C:\Users\azs90\source\repos\tudo\MenuFinal\bin\Debug\net8.0\MenuFinal.exe
+C:\Users\azs90\source\repos\tudo\MenuFinal\bin\Debug\net8.0\MenuFinal.deps.json
+C:\Users\azs90\source\repos\tudo\MenuFinal\bin\Debug\net8.0\MenuFinal.runtimeconfig.json
+C:\Users\azs90\source\repos\tudo\MenuFinal\bin\Debug\net8.0\MenuFinal.dll
+C:\Users\azs90\source\repos\tudo\MenuFinal\bin\Debug\net8.0\MenuFinal.pdb
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.dll
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\refint\MenuFinal.dll
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.pdb
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\MenuFinal.genruntimeconfig.cache
+C:\Users\azs90\source\repos\tudo\MenuFinal\obj\Debug\net8.0\ref\MenuFinal.dll

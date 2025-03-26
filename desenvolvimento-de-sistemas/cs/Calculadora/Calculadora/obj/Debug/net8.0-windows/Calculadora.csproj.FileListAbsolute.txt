@@ -1,0 +1,17 @@
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.Form1.resources
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
+C:\Users\azs90\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.exe
+C:\Users\azs90\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.deps.json
+C:\Users\azs90\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.runtimeconfig.json
+C:\Users\azs90\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.dll
+C:\Users\azs90\source\repos\Calculadora\Calculadora\bin\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.dll
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\refint\Calculadora.dll
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.pdb
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\azs90\source\repos\Calculadora\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
