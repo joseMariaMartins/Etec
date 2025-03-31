@@ -1,0 +1,58 @@
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe.config
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.frmCalcButtons.resources
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.MDI_Menu.resources
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe.config
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.frmCalcButtons.resources
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.MDI_Menu.resources
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.frmCalcButtons.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.MDI_Menu.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos-at (2)\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.fmrCalcRadio.resources
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe.config
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.fmrCalcRadio.resources
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.frmCalcButtons.resources
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.MDI_Menu.resources
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\LabInfo\Desktop\Projeto mais atualizado do que nunca\Projeto mais atualizado do que nunca\Projetos-at\Projetos\Projetos\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe.config
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\bin\Debug\Projeto_Calculos_1TDSN_2025.pdb
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.AssemblyReference.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.fmrCalcRadio.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.frmCalcButtons.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.MDI_Menu.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.Properties.Resources.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.GenerateResource.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_2TDSN_2025.csproj.CoreCompileInputs.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.exe
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\Calculadora_Anderson\Solução_Calculos_1TDSN_2025\Projeto_Calculos_1TDSN_2025\obj\Debug\Projeto_Calculos_1TDSN_2025.pdb
