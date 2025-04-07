@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\azs90\\documents\\github\\etec\\desenvolvimento-de-sistemas\\cs\\trabaiodeds\\windowsformsapp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\azs90\\documents\\github\\etec\\desenvolvimento-de-sistemas\\cs\\trabaiodeds\\windowsformsapp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwKwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:26:08.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:09:35.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\MenuForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\MenuForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T00:29:08.531Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

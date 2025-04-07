@@ -46,7 +46,6 @@
             btnSubtrair = new Button();
             btnSomar = new Button();
             btnLimpar = new Button();
-            label1 = new Label();
             btnMaisMenos = new Button();
             btnMenos = new Button();
             btnBack = new Button();
@@ -56,17 +55,18 @@
             // txtResultado
             // 
             txtResultado.Font = new Font("Segoe UI", 18F);
-            txtResultado.Location = new Point(12, 12);
+            txtResultado.Location = new Point(15, 18);
             txtResultado.Multiline = true;
             txtResultado.Name = "txtResultado";
-            txtResultado.Size = new Size(316, 43);
+            txtResultado.Size = new Size(316, 61);
             txtResultado.TabIndex = 0;
+            txtResultado.Text = "0";
             txtResultado.TextAlign = HorizontalAlignment.Right;
             // 
             // btnSete
             // 
             btnSete.Font = new Font("Segoe UI", 14F);
-            btnSete.Location = new Point(12, 61);
+            btnSete.Location = new Point(15, 99);
             btnSete.Name = "btnSete";
             btnSete.Size = new Size(75, 64);
             btnSete.TabIndex = 1;
@@ -78,7 +78,7 @@
             // btnOito
             // 
             btnOito.Font = new Font("Segoe UI", 14F);
-            btnOito.Location = new Point(93, 61);
+            btnOito.Location = new Point(96, 99);
             btnOito.Name = "btnOito";
             btnOito.Size = new Size(75, 64);
             btnOito.TabIndex = 2;
@@ -90,7 +90,7 @@
             // btnnNove
             // 
             btnnNove.Font = new Font("Segoe UI", 14F);
-            btnnNove.Location = new Point(174, 61);
+            btnnNove.Location = new Point(177, 99);
             btnnNove.Name = "btnnNove";
             btnnNove.Size = new Size(75, 64);
             btnnNove.TabIndex = 3;
@@ -102,7 +102,7 @@
             // btnQuatro
             // 
             btnQuatro.Font = new Font("Segoe UI", 14F);
-            btnQuatro.Location = new Point(12, 131);
+            btnQuatro.Location = new Point(15, 169);
             btnQuatro.Name = "btnQuatro";
             btnQuatro.Size = new Size(75, 64);
             btnQuatro.TabIndex = 4;
@@ -114,7 +114,7 @@
             // btnCinco
             // 
             btnCinco.Font = new Font("Segoe UI", 14F);
-            btnCinco.Location = new Point(93, 131);
+            btnCinco.Location = new Point(96, 169);
             btnCinco.Name = "btnCinco";
             btnCinco.Size = new Size(75, 64);
             btnCinco.TabIndex = 5;
@@ -126,7 +126,7 @@
             // btnSeis
             // 
             btnSeis.Font = new Font("Segoe UI", 14F);
-            btnSeis.Location = new Point(174, 131);
+            btnSeis.Location = new Point(177, 169);
             btnSeis.Name = "btnSeis";
             btnSeis.Size = new Size(75, 64);
             btnSeis.TabIndex = 6;
@@ -138,7 +138,7 @@
             // btnUm
             // 
             btnUm.Font = new Font("Segoe UI", 14F);
-            btnUm.Location = new Point(12, 201);
+            btnUm.Location = new Point(15, 239);
             btnUm.Name = "btnUm";
             btnUm.Size = new Size(75, 64);
             btnUm.TabIndex = 7;
@@ -150,7 +150,7 @@
             // btnDois
             // 
             btnDois.Font = new Font("Segoe UI", 14F);
-            btnDois.Location = new Point(93, 201);
+            btnDois.Location = new Point(96, 239);
             btnDois.Name = "btnDois";
             btnDois.Size = new Size(75, 64);
             btnDois.TabIndex = 8;
@@ -162,7 +162,7 @@
             // btnTres
             // 
             btnTres.Font = new Font("Segoe UI", 14F);
-            btnTres.Location = new Point(174, 201);
+            btnTres.Location = new Point(177, 239);
             btnTres.Name = "btnTres";
             btnTres.Size = new Size(75, 64);
             btnTres.TabIndex = 9;
@@ -174,7 +174,7 @@
             // btnZero
             // 
             btnZero.Font = new Font("Segoe UI", 14F);
-            btnZero.Location = new Point(93, 271);
+            btnZero.Location = new Point(96, 309);
             btnZero.Name = "btnZero";
             btnZero.Size = new Size(75, 64);
             btnZero.TabIndex = 10;
@@ -186,7 +186,7 @@
             // btnVirgula
             // 
             btnVirgula.Font = new Font("Segoe UI", 14F);
-            btnVirgula.Location = new Point(174, 271);
+            btnVirgula.Location = new Point(177, 309);
             btnVirgula.Name = "btnVirgula";
             btnVirgula.Size = new Size(75, 64);
             btnVirgula.TabIndex = 11;
@@ -197,7 +197,7 @@
             // btnIgual
             // 
             btnIgual.Font = new Font("Segoe UI", 14F);
-            btnIgual.Location = new Point(267, 295);
+            btnIgual.Location = new Point(270, 333);
             btnIgual.Name = "btnIgual";
             btnIgual.Size = new Size(61, 40);
             btnIgual.TabIndex = 12;
@@ -208,7 +208,7 @@
             // btnDivisao
             // 
             btnDivisao.Font = new Font("Segoe UI", 14F);
-            btnDivisao.Location = new Point(267, 139);
+            btnDivisao.Location = new Point(270, 177);
             btnDivisao.Name = "btnDivisao";
             btnDivisao.Size = new Size(61, 33);
             btnDivisao.TabIndex = 13;
@@ -219,7 +219,7 @@
             // btnMultiplicacao
             // 
             btnMultiplicacao.Font = new Font("Segoe UI", 14F);
-            btnMultiplicacao.Location = new Point(267, 178);
+            btnMultiplicacao.Location = new Point(270, 216);
             btnMultiplicacao.Name = "btnMultiplicacao";
             btnMultiplicacao.Size = new Size(61, 33);
             btnMultiplicacao.TabIndex = 14;
@@ -240,7 +240,7 @@
             // btnSomar
             // 
             btnSomar.Font = new Font("Segoe UI", 14F);
-            btnSomar.Location = new Point(267, 256);
+            btnSomar.Location = new Point(270, 294);
             btnSomar.Name = "btnSomar";
             btnSomar.Size = new Size(61, 33);
             btnSomar.TabIndex = 16;
@@ -251,7 +251,7 @@
             // btnLimpar
             // 
             btnLimpar.Font = new Font("Segoe UI", 14F);
-            btnLimpar.Location = new Point(267, 100);
+            btnLimpar.Location = new Point(270, 138);
             btnLimpar.Name = "btnLimpar";
             btnLimpar.Size = new Size(61, 33);
             btnLimpar.TabIndex = 17;
@@ -259,18 +259,10 @@
             btnLimpar.UseVisualStyleBackColor = true;
             btnLimpar.Click += f_calculos;
             // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(12, 22);
-            label1.Name = "label1";
-            label1.Size = new Size(0, 15);
-            label1.TabIndex = 18;
-            // 
             // btnMaisMenos
             // 
             btnMaisMenos.Font = new Font("Segoe UI", 14F);
-            btnMaisMenos.Location = new Point(12, 271);
+            btnMaisMenos.Location = new Point(15, 309);
             btnMaisMenos.Name = "btnMaisMenos";
             btnMaisMenos.Size = new Size(75, 64);
             btnMaisMenos.TabIndex = 19;
@@ -281,7 +273,7 @@
             // btnMenos
             // 
             btnMenos.Font = new Font("Segoe UI", 14F);
-            btnMenos.Location = new Point(267, 217);
+            btnMenos.Location = new Point(270, 255);
             btnMenos.Name = "btnMenos";
             btnMenos.Size = new Size(61, 33);
             btnMenos.TabIndex = 20;
@@ -292,7 +284,7 @@
             // btnBack
             // 
             btnBack.Font = new Font("Segoe UI", 14F);
-            btnBack.Location = new Point(267, 61);
+            btnBack.Location = new Point(270, 99);
             btnBack.Name = "btnBack";
             btnBack.Size = new Size(61, 33);
             btnBack.TabIndex = 21;
@@ -303,22 +295,22 @@
             // lblOperacao
             // 
             lblOperacao.AutoSize = true;
-            lblOperacao.Font = new Font("Segoe UI", 15F);
-            lblOperacao.Location = new Point(18, 22);
+            lblOperacao.BackColor = SystemColors.ButtonHighlight;
+            lblOperacao.Font = new Font("Segoe UI", 10F);
+            lblOperacao.Location = new Point(26, 33);
             lblOperacao.Name = "lblOperacao";
-            lblOperacao.Size = new Size(0, 28);
+            lblOperacao.Size = new Size(0, 19);
             lblOperacao.TabIndex = 22;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(344, 353);
+            ClientSize = new Size(344, 387);
             Controls.Add(lblOperacao);
             Controls.Add(btnBack);
             Controls.Add(btnMenos);
             Controls.Add(btnMaisMenos);
-            Controls.Add(label1);
             Controls.Add(btnLimpar);
             Controls.Add(btnSomar);
             Controls.Add(btnSubtrair);
@@ -342,6 +334,7 @@
             Tag = "";
             Text = "Calculadora";
             Click += f_numeros;
+            KeyPress += btnNumerico;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -366,7 +359,7 @@
         private Button btnSubtrair;
         private Button btnSomar;
         private Button btnLimpar;
-        private Label label1;
+        private Label label2;
         private Button btnMaisMenos;
         private Button btnMenos;
         private Button btnBack;

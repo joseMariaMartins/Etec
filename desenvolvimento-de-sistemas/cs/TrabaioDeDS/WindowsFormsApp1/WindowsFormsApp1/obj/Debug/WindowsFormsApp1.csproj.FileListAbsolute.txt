@@ -1,0 +1,86 @@
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI_Menu.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalcButtons.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalcButtons.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI_Menu.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalcButtons.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1 (3)\WindowsFormsApp1 (2) 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI_Menu.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalcButtons.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI_Menu.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalcButtons.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MDI_Menu.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\azs90\Documents\github\Etec\desenvolvimento-de-sistemas\cs\TrabaioDeDS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
