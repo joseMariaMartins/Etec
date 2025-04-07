@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\azs90\\documents\\github\\etec\\desenvolvimento-de-sistemas\\cs\\trabaiodeds\\windowsformsapp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0962E905-A098-4AEF-958A-92DC60EA588D}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
               "ToolTip": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs*",
               "RelativeToolTip": "WindowsFormsApp1\\Form2.cs*",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAQwKwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAQwKgAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T01:26:08.461Z",
               "EditorCaption": ""
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\azs90\\Documents\\github\\Etec\\desenvolvimento-de-sistemas\\cs\\TrabaioDeDS\\WindowsFormsApp1\\WindowsFormsApp1\\MenuForm.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\MenuForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T00:29:08.531Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-05T00:29:08.531Z"
             }
           ]
         }

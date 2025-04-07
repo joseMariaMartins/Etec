@@ -41,11 +41,11 @@ namespace WindowsFormsApp1
             if (lblVisor.Text.Length > 17)
             {
                 lblVisor.Text = lblVisor.Text;
-                lblAntiga.Visible = false;
+                lblAntig.Visible = false;
             }
             else
             {
-                lblAntiga.Visible = true;
+                lblAntig.Visible = true;
             }
             lblVisor.Focus();
         }
@@ -54,15 +54,15 @@ namespace WindowsFormsApp1
             operacao = ((Button)sender).Text;   
             vNumAnt = decimal.Parse(lblVisor.Text);
             vLimpar = true;
-            lblAntiga.Text = " " + vNumAnt.ToString();
-            lblAntiga.Text += " " + operacao;
+            lblAntig.Text = " " + vNumAnt.ToString();
+            lblAntig.Text += " " + operacao;
 
             lblVisor.Focus();
         }
         private void btnClear_Click(object sender, EventArgs e)
         {
             lblVisor.Text = "0";
-            lblAntiga.Text = "";
+            lblAntig.Text = "";
             operacao = "";
             lblVisor.Focus();
         }
@@ -140,7 +140,7 @@ namespace WindowsFormsApp1
         private void btnIgual_Click_1(object sender, EventArgs e)
         {
             decimal vNumAtual = decimal.Parse(lblVisor.Text);
-            lblAntiga.Text += " " + vNumAtual.ToString();
+            lblAntig.Text += " " + vNumAtual.ToString();
             switch (operacao)
             {
                 case "+":
